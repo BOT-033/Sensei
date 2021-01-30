@@ -22,3 +22,4 @@ Dark-Fb No Login 100% safe
 • chmod +x *
 • sudo ./main.py
 ``` 
+Hacker
